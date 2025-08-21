@@ -1,12 +1,94 @@
-# React + Vite
+Here’s a polished **README.md** you can use for your **GSAP\_COCKTAIL** GitHub repo. I’ve written it in a way that’s clean, professional, and appealing to developers who land on your project:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 🍹 GSAP\_COCKTAIL — Parallax Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A visually stunning **parallax website** built with **[Vite.js](https://vitejs.dev/)** and powered by **[GSAP](https://greensock.com/gsap/)** animations.
+This project demonstrates smooth scroll-based effects, fluid transitions, and interactive parallax layers — all with zero backend.
 
-## Expanding the ESLint configuration
+![Preview](./preview.gif) <!-- Replace with actual preview image/gif if available -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+* 🎨 Modern **parallax scrolling effects**
+* ⚡ Super fast development with **Vite.js**
+* 🌀 Smooth and performant **GSAP animations**
+* 📱 **Responsive design** for all devices
+* 🌐 No backend — purely static and deploy-ready
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** [Vite.js](https://vitejs.dev/), [GSAP](https://greensock.com/gsap/)
+* **Styling:** tailwindcss
+* **Deployment:** Any static hosting (Netlify, Vercel, GitHub Pages, etc.)
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/GSAP_COCKTAIL.git
+
+# Navigate into the project
+cd GSAP_COCKTAIL
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+---
+
+## 📂 Project Structure
+
+```
+GSAP_COCKTAIL/
+│── public/          # Static assets
+│── src/
+│   ├── assets/      # Images, icons, etc.
+│   ├── components/  # Reusable UI components
+│   ├── styles/      # Global and component styles
+│   ├── main.js      # App entry point
+│── index.html       # Root HTML file
+│── vite.config.js   # Vite configuration
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a PR.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Jai**
+
+* Portfolio: https://modern-portfolio-eight-ochre.vercel.app/
+* LinkedIn: https://www.linkedin.com/in/jai-jayathilak
+* GitHub: https://github.com/Jai-jayapalan
+
+---
+
+Would you like me to make this **minimal & aesthetic (for portfolio showcase)** or **developer-focused with more GSAP code examples** (so others can learn from your animations)?
