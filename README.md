@@ -1,7 +1,3 @@
-Here’s a polished **README.md** you can use for your **GSAP\_COCKTAIL** GitHub repo. I’ve written it in a way that’s clean, professional, and appealing to developers who land on your project:
-
----
-
 # 🍹 GSAP\_COCKTAIL — Parallax Website
 
 A visually stunning **parallax website** built with **[Vite.js](https://vitejs.dev/)** and powered by **[GSAP](https://greensock.com/gsap/)** animations.
