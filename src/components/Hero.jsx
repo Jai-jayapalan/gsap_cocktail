@@ -71,7 +71,7 @@ const Hero = () => {
             />
 
             <div className="body">
-                <div className="content">
+                <div className="content ml-10">
                     <div className="space-y-5 hidden md:block">
                         <p>Cool. Crisp. Classic.</p>
                         <p className="subtitle">
@@ -79,7 +79,7 @@ const Hero = () => {
                         </p>
                     </div>
 
-                    <div className="view-cocktails">
+                    <div className="view-cocktails mr-10">
                         <p className="subtitle">
                             Every cocktail on our menu is a blend of premium incredients,
                             creative flair, and timeless recipes - designed to delight your senses.
