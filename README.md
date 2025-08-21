@@ -84,7 +84,3 @@ This project is licensed under the **MIT License**.
 * Portfolio: https://modern-portfolio-eight-ochre.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/jai-jayathilak
 * GitHub: https://github.com/Jai-jayapalan
-
----
-
-Would you like me to make this **minimal & aesthetic (for portfolio showcase)** or **developer-focused with more GSAP code examples** (so others can learn from your animations)?
